@@ -6,3 +6,11 @@ h1{
     text-align: center;
     color: #333333;
 }
+p{
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 26px;
+    display: block;
+    text-align: center;
+    max-width: 500px;
+}
